@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fernandolou
-- 👀 I’m interested in back-end development
+- 👋 Hi, I’m @urielmahutondji
+- 👀 I’m interested in back-end development with Python and Javascript
 - 🌱 I’m currently learning bash
 - 💞️ I’m looking to collaborate on back-end development projects
 - 📫 How to reach me ? Email : fernando44lou@gmail.com
